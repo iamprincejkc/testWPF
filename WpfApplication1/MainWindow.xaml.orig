@@ -3,7 +3,10 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="526">
     <Grid>
-         <!--5555-->
+<<<<<<< HEAD
         <!--asdsa-->
+=======
+         <!--5555-->
+>>>>>>> d0124cdb92d742a036dd31ac6b5e2a99ca2f1e88
     </Grid>
 </Window>
