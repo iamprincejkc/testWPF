@@ -24,11 +24,6 @@ namespace WpfApplication1
         {
             //test555
             //test444
-            //test444
-=======
-            //test555
->>>>>>> d0124cdb92d742a036dd31ac6b5e2a99ca2f1e88
-            InitializeComponent();
         }
     }
 }
