@@ -3,10 +3,6 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-<<<<<<< HEAD
          <!--asdasd-->
-=======
-          <!--asdasd-->
->>>>>>> d0124cdb92d742a036dd31ac6b5e2a99ca2f1e88
     </Application.Resources>
 </Application>
